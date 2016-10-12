@@ -1,5 +1,5 @@
 # shado
-Manage project/development environment easily
+Manage commands for project/development environment easily ( shadowing commands )
 
 - [ ] Create Basic project skelton with project create, list, delete, activate
 - [ ] Virtualenv support
